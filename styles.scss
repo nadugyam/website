@@ -1,0 +1,44 @@
+/*-- scss:defaults --*/
+
+// Sass Variables
+// https://quarto.org/docs/output-formats/html-themes.html#sass-variables
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+$theme-lightblue: #E0FFFF;
+$theme-black: black;
+$theme-blue: blue;
+
+
+/* Colors */
+$body-bg: $theme-lightblue;
+$body-color: $theme-black;
+$link-color: $theme-blue;
+
+/* Fonts */
+$font-family-sans-serif: "Poppins", serif;
+$font-size-root: 17px;
+
+/*-- scss:rule --*/
+
+
+h1, h2 {
+    text-transform: titlecase;
+    color: blue;
+}
+
+.sidebar * {
+    color: black;
+}
+
+li.breadcrumb-item {
+    color:$theme-black;
+    transition-duration: 5s;
+
+  &:hover {
+    color: lighten($theme-blue, 10%);
+    transition-duration: 5s;
+ }
+}

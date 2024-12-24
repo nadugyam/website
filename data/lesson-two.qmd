@@ -1,0 +1,6 @@
+---
+title: Lesson Two
+---
+
+{{<lipsum 2 >}}
+

@@ -1,0 +1,6 @@
+- source: project
+  quarto-pub:
+    - id: 6433675d-0c0c-4ef3-ab33-d211ac18abd7
+      url: 'https://nadugyam.quarto.pub/home'
+    - id: a69cb070-3a97-447b-9e05-e652afbcb61c
+      url: 'https://adugyamfin.quarto.pub/nadugyam'

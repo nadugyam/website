@@ -1,0 +1,44 @@
+---
+title: "Nicholas Adu Gyamfi"
+subtitle: "Economist | Data Scientist"
+# `profile.jpg` photo by Jan Tinneberg on https://unsplash.com
+image: /images/profile.jpg
+about: # https://quarto.org/docs/websites/website-about.html
+  template: jolla
+  image-shape: round
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/adugyamfinicholas
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/opuni
+    - icon: googlesites
+      text: GoogleSites
+      href: https://sites.google.com/odu.edu/nicholasadugyamfi/home
+    - icon: quartopub
+      text: QuartoPub
+      href: https://nadugyam.quarto.pub/home/
+---
+
+I am passionate about exploring ways to improve the well-being of people in developing countries. I believe that economic development is essential for improving the lives of people in developing countries, and I am committed to exploring ways to promote sustainable economic growth and development.
+
+In my free time, I enjoy playing soccer and exploring new cultures and experiences. I believe that exposure to different cultures and ways of thinking is essential for personal growth and development. I am always open to exciting experiences and opportunities to learn new things.
+
+## Education
+
+Old Dominion University \| Norfolk, Virginia \
+MA. Economics \
+
+University i Nordland \| Bodoe, Norway \
+MSc. International Business \
+
+University of Ghana \| Accra, Ghana \
+BSc. Finance and Banking \
+
+## Experience
+
+Old Dominion University \| Database Admin \
+Agricultural Development Bank \| Investment Officer \
+National Trust Holding Co. \| Investment Analyst \
+

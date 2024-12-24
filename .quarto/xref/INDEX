@@ -1,0 +1,101 @@
+{
+  "index.qmd": {
+    "index.html": "490e276a"
+  },
+  "blog/first-post/index.qmd": {
+    "index.html": "4260fc17"
+  },
+  "blog/second-post/index.qmd": {
+    "index.html": "93eb52a7"
+  },
+  "blog/third-post/index.ipynb": {
+    "index.html": "f3ec0194"
+  },
+  "projects/index.qmd": {
+    "index.html": "b265f489"
+  },
+  "research.qmd": {
+    "research.html": "372f31fa"
+  },
+  "data/lecture.qmd": {
+    "lecture.html": "b34e9c78"
+  },
+  "data/resume.qmd": {
+    "resume.html": "6980fac5"
+  },
+  "data/research.qmd": {
+    "research.html": "ce28a65d"
+  },
+  "data/assignments.qmd": {
+    "assignments.html": "485ff2ee"
+  },
+  "data/journals.qmd": {
+    "journals.html": "561eca74"
+  },
+  "data/publications.qmd": {
+    "publications.html": "80d8d9aa"
+  },
+  "data/resume - Copy (3).qmd": {
+    "resume - Copy (3).html": "fd361553"
+  },
+  "data/resume - Copy (4).qmd": {
+    "resume - Copy (4).html": "30e95015"
+  },
+  "data/resume - Copy (5).qmd": {
+    "resume - Copy (5).html": "1e764e37"
+  },
+  "data/syllabus.qmd": {
+    "syllabus.html": "0e1e5caf"
+  },
+  "data/assignment four.qmd": {
+    "assignment four.html": "24dc1489"
+  },
+  "data/assignment one.qmd": {
+    "assignment one.html": "19ab59f4"
+  },
+  "data/assignment three.qmd": {
+    "assignment three.html": "5aed0d2a"
+  },
+  "data/assignment two.qmd": {
+    "assignment two.html": "fef01cbc"
+  },
+  "data/lesson four.qmd": {
+    "lesson four.html": "834b135b"
+  },
+  "data/lesson one.qmd": {
+    "lesson one.html": "1bf52f20"
+  },
+  "data/lesson three.qmd": {
+    "lesson three.html": "1a37d534"
+  },
+  "data/lesson two.qmd": {
+    "lesson two.html": "9cf507e5"
+  },
+  "data/assignment-four.qmd": {
+    "assignment-four.html": "5b1375f6"
+  },
+  "data/assignment-one.qmd": {
+    "assignment-one.html": "7cea018e"
+  },
+  "data/assignment-three.qmd": {
+    "assignment-three.html": "c8c2ddda"
+  },
+  "data/assignment-two.qmd": {
+    "assignment-two.html": "154ca943"
+  },
+  "data/lesson-four.qmd": {
+    "lesson-four.html": "400e73df"
+  },
+  "data/lesson-one.qmd": {
+    "lesson-one.html": "ffd990db"
+  },
+  "data/lesson-three.qmd": {
+    "lesson-three.html": "1e099d5f"
+  },
+  "data/lesson-two.qmd": {
+    "lesson-two.html": "9e3ee3f0"
+  },
+  "blog/index.qmd": {
+    "index.html": "c7c166f1"
+  }
+}

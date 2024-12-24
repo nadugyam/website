@@ -1,0 +1,6 @@
+---
+title: Research
+---
+
+{{<lipsum 2 >}}
+
